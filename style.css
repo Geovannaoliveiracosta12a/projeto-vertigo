@@ -5,6 +5,10 @@
     font-family: 'titillium web', sans-serif;
 }
 header{
-    background-image: url(./bg-mobile/bg-mobile.png);
+    background-image: url(./bg-mobile/bg-mmobile.png);
     background-size: cover;
+    height: 8.375rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
