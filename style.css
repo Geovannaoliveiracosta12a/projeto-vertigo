@@ -1,3 +1,10 @@
 *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
     font-family: 'titillium web', sans-serif;
+}
+header{
+    background-image: url(./bg-mobile/bg-mobile.png);
+    background-size: cover;
 }
